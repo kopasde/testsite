@@ -1,6 +1,5 @@
 # testsite
 <html>
-    <title>dzudoistpro</title>
     <body>
     <header style="background-color:black">
         <img src="https://mars.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
